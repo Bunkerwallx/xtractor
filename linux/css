@@ -1,0 +1,9 @@
+├── proyecto_extraer_urls/
+│   ├── main.py
+│   ├── src/
+│   │   ├── extractor.py
+│   │   └── banner.py
+│   ├── resultados/
+│   │   └── urls_extraidas.txt
+│   ├── requirements.txt
+│   └── README.md
